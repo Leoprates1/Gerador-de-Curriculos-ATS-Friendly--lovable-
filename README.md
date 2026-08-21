@@ -1,9 +1,5 @@
 # 📄 CV Adapt - Otimização Estratégica de Currículos
 
-![Status](https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
 O **CV Adapt** é uma aplicação web desenvolvida como parte do desafio de *Vibe Coding* da **DIO (Digital Innovation One)**, construída através de IA generativa com a plataforma Lovable.
 
 A proposta principal do aplicativo é ajudar candidatos a **adaptarem seus currículos de acordo com a vaga desejada, de forma 100% ética**. Ao analisar a descrição de uma vaga, o sistema cruza os requisitos com o seu perfil e sugere quais dos **seus pontos fortes reais** devem ganhar mais ênfase, garantindo que o seu documento chame a atenção do recrutador sem a necessidade de inventar informações.
