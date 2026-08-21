@@ -25,15 +25,19 @@ A proposta principal do aplicativo é ajudar candidatos a **adaptarem seus curr�
 
 > **Nota:** As imagens abaixo ilustram o fluxo principal da aplicação.
 
-### 1. Inserção do Perfil e da Vaga
+### 1. Inserção do Perfil
 <!-- Substitua o arquivo 'step1-vaga.png' na pasta 'assets' pela sua captura de tela real -->
 ![Análise de Vaga](./assets/step1-vaga.png)
 
-### 2. Sugestões de Adaptação
+### 2. Inserção da Vaga
+<!-- Substitua o arquivo 'step1-vaga.png' na pasta 'assets' pela sua captura de tela real -->
+![Análise de Vaga](./assets/step1-vaga.png)
+
+### 3. Sugestões de Adaptação
 <!-- Substitua o arquivo 'step2-adapt.png' na pasta 'assets' pela sua captura de tela real -->
 ![Sugestões do App](./assets/step2-adapt.png)
 
-### 3. Currículo Exportado
+### 4. Currículo Exportado
 <!-- Substitua o arquivo 'step3-pdf.png' na pasta 'assets' pela sua captura de tela real -->
 ![PDF ATS Friendly](./assets/step3-pdf.png)
 
@@ -54,4 +58,4 @@ Caso deseje clonar o projeto e rodá-lo em sua máquina, siga os passos abaixo:
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git](https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git)
+   git clone [https://github.com/Leoprates1/Gerador-de-Curriculos-ATS-Friendly--lovable-/]
