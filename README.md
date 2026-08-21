@@ -23,19 +23,19 @@ A proposta principal do aplicativo é ajudar candidatos a **adaptarem seus curr�
 
 ### 1. Inserção do Perfil
 <!-- Substitua o arquivo 'step1-vaga.png' na pasta 'assets' pela sua captura de tela real -->
-![Análise de Vaga](./assets/step1-vaga.png)
+![Análise de Vaga](login.png), 
 
-### 2. Inserção da Vaga
+### 2. Inserção do Curriculo
 <!-- Substitua o arquivo 'step1-vaga.png' na pasta 'assets' pela sua captura de tela real -->
-![Análise de Vaga](./assets/step1-vaga.png)
+![Análise de Vaga](insercao-curriculo.png), ![Análise de Vaga](insercao-curriculo.png)
 
-### 3. Sugestões de Adaptação
+### 3. Sugestões de Vagas
 <!-- Substitua o arquivo 'step2-adapt.png' na pasta 'assets' pela sua captura de tela real -->
-![Sugestões do App](./assets/step2-adapt.png)
+![Sugestões do App](vagas.png)
 
-### 4. Currículo Exportado
+### 4. Sugestão de Adapitação Currículo
 <!-- Substitua o arquivo 'step3-pdf.png' na pasta 'assets' pela sua captura de tela real -->
-![PDF ATS Friendly](./assets/step3-pdf.png)
+![PDF ATS Friendly](sugestão-adapitacao.png)
 
 ---
 
